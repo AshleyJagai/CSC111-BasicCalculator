@@ -43,3 +43,7 @@ elif operation == "**":
     print ("The answer is:", (num_1 ** num_2))
 else:    
    print("This is an invalid input") 
+
+
+if __name__ == "__main__":
+   main()
